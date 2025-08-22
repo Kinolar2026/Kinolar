@@ -50,7 +50,7 @@ Kinolar 2026 Maruf butayev
   }
   .gallery img{
     width:250px;
-    height:150px;
+    height:auto;
     object-fit:cover;
     border-radius:12px;
     box-shadow:0 4px 12px rgba(0,0,0,0.5);
@@ -83,10 +83,11 @@ Kinolar 2026 Maruf butayev
     border-radius:50%;
     border:4px solid #ffdd00;
     box-shadow:0 4px 12px rgba(0,0,0,0.4);
+    margin-bottom:15px;
   }
   .instagram-button, .admin-button{
     display:inline-block;
-    margin-top:15px;
+    margin:10px 5px;
     padding:12px 25px;
     font-weight:bold;
     font-size:1.1em;
@@ -134,11 +135,11 @@ Kinolar 2026 Maruf butayev
 </header>
 
 <!-- Rasmlar galereyasi -->
-<div class="gallery">
+<section class="gallery">
   <img src="rasm1.jpg" alt="Rasm 1">
   <img src="rasm2.jpg" alt="Rasm 2">
   <img src="rasm3.jpg" alt="Rasm 3">
-</div>
+</section>
 
 <section>
   <h2>Bot haqida</h2>
@@ -156,7 +157,7 @@ Kinolar 2026 Maruf butayev
   </p>
   <img src="rasm_owner.jpg" alt="Maruf">
   <br>
-  <a href="https://www.instagram.com/maruf_hub?igsh=cDJoNXljM2dtbWk1" class="instagram-button">Instagram</a>
+  <a href="https://www.instagram.com/maruf_hub/" class="instagram-button">Instagram</a>
   <br>
   <a href="https://t.me/Mr_Aloqda" class="admin-button">Admin</a>
 </section>
