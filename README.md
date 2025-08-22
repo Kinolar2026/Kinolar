@@ -159,7 +159,7 @@ Kinolar 2026 Maruf butayev
   <br>
   <a href="https://www.instagram.com/maruf_hub/" class="instagram-button">Instagram</a>
   <br>
-  <a href="https://t.me/Mr_Aloqda" class="admin-button">Admin</a>
+  <a href="https://t.me/Mr_Aloqada" class="admin-button">Admin</a>
 </section>
 
 <footer>
